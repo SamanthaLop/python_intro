@@ -4,5 +4,5 @@
 
 1) Install python3
 2) Verify you've installed it
-3) Clone this dir: ´git clone https://github.com/SamanthaLop/python_intro.git´
+3) Clone this dir: git clone https://github.com/SamanthaLop/python_intro.git
 
